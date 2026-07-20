@@ -9,6 +9,7 @@ Frontend Engineer & Co-Founder — suka mengulik React ecosystem, dari web sampa
 **Varca Tech Agency** — *Co-Founder*
 - Membangun solusi web scalable dengan React & modern frontend stack
 - Brand & product strategy untuk klien tech agency
+
 **[Varca Tech Agency]** — *[Frontend Developer]* 
 - Mengembangkan aplikasi web & mobile (React, TypeScript, React Native/Expo) untuk berbagai proyek klien
 - Membangun UI yang responsive dan interaktif dengan fokus pada performa dan clean code
@@ -16,9 +17,9 @@ Frontend Engineer & Co-Founder — suka mengulik React ecosystem, dari web sampa
  
 ## 🌐 Socials
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your-instagram-here)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://laazuardi.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagusrlzrd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagusrl/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://web-portofolio-bagus.vercel.app)
  
 ---
  
@@ -63,7 +64,7 @@ Frontend Engineer & Co-Founder — suka mengulik React ecosystem, dari web sampa
  
 ### ✍️ Random Dev Quote
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"Don't just ship features. Ship experiences."
  
 ### 🔝 Top Contributed Repo
  
