@@ -1,4 +1,4 @@
-# Hey, I'm Bagus 👋
+# Hey, I'm Bagus Rizky Lazuardi 👋
  
 Frontend Engineer & Co-Founder — suka mengulik React ecosystem, dari web sampai mobile (React Native/Expo), dan sekarang lagi banyak eksplor AI-assisted development. Fokus di kode yang bersih, UI yang halus, dan produk yang scalable.
  
